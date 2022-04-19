@@ -1,0 +1,26 @@
+.topnav{
+    background: #000;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+
+}
+.topnav a{
+    height: 80px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    text-align: end;
+}
+.main{
+    text-align: center;
+}
+.btn2{
+    height: 50px;
+    width: 80px;
+}

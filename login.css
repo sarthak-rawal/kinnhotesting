@@ -1,0 +1,32 @@
+.topnav {
+    background-color: #000;
+    overflow: hidden;
+    height: 100px;
+    width: 100%;
+  }
+  
+  .topnav a {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 80px;
+    margin-top: 10px;
+    
+   
+  }
+  .header{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+  }
+.body{
+    
+    
+    text-align: center;
+}
+.btn{
+    height: 50px;
+    width: 80px;
+}
+
+
